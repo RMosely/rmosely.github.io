@@ -12,20 +12,21 @@
     - Sphinx setup and init
                 May need to test github pages
 
-.. sidebar:: Links 
+.. sidebar:: Social 
 
-   - github
-   - myspace
-   - linkedin
+   `github <https://github.com/RMosely>`_
+   `linkedin <https://www.linkedin.com/in/rmosely/>`_
 
-Tale of Contents
-================
+.. sidebar:: Currently Reading 
+
+   .. image:: https://everythingsysadmin.com/img/books/time-management.jpg
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Table of Contents:
 
    about
+   required
 
 * :ref:`genindex`
 * :ref:`search`
